@@ -1,0 +1,1 @@
+require_relative 'routes/sample.rb'
